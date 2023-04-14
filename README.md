@@ -1,6 +1,6 @@
 # unsupervised-topic-modeling
 
-![sample 1](https://github.com/0xArwa/unsupervised-topic-modeling/blob/main/images/Figures%20of%20words%20associated%20with%20each%20topic%20for%20LDA%20Model.png)
+![sample LDA](https://github.com/0xArwa/unsupervised-topic-modeling/blob/main/images/Figures%20of%20words%20associated%20with%20each%20topic%20for%20LDA%20Model.png)
 ## Table of Contents
 - <a href="#1"> Description </a>
 - <a href="#2"> Project Motivation </a>
@@ -48,6 +48,16 @@ The dataset was retrived from Kaggle [<a href="https://www.kaggle.com/datasets/f
 
 <a id='6'></a>
 ## Results 🪄
+![scores](https://github.com/0xArwa/unsupervised-topic-modeling/blob/main/images/output.png)
 
+3 algorithms were tested and evaluated and these are the results:
+| #Model    | #Coherence Score   |
+| :---: | :---: |
+| LDA   | 0.443   |
+| NMF   | 0.581   |
+| LSA   | 0.467   |
+
+The NMF algorithm achived the highest score and the model was fine-tuned based on topic numbers as shown in the above figure.
 <a id='7'></a>
 ## Blog post  📝
+Check out the article that I have published on Meduim HERE. 
