@@ -9,7 +9,7 @@
 - <a href="#5"> Used Libraries </a>
 - <a href="#6"> Results </a>
 - <a href="#7"> Blog post </a>
-
+- <a href="#8"> Acknowledgements </a>
 <a id='1'></a>
 ## Description 📜
 Topic modeling is task in natural language processing (NLP) aims to discover latent topics or themes in a collection of unstructured text data, without the need of any labeled data. The goal of topic modeling is to uncover the semantic structure of a corpus of text by identifying groups of words that mostly co-occur in the same context. <br> This repository contains code for performing topic modeling on a given corpus of text.
@@ -61,3 +61,8 @@ The NMF algorithm achived the highest score and the model was fine-tuned based o
 <a id='7'></a>
 ## Blog post  📝
 Check out the article that I have published on Meduim <a href="https://medium.com/@arwaomayrah/a-comparative-analysis-of-lda-nnmf-and-lsa-algorithms-for-topic-modeling-4b6d7ad28a8c">HERE</a>. 
+
+<a id='8'></a>
+## Acknowledgements
+- Medium. (2022). 190k+ Medium Articles [Data set]. Kaggle. <a href="https://www.kaggle.com/datasets/fabiochiusano/medium-articles?resource=download"> Link </a>
+- This project is part of Udacity Data Scientist Nanodegree Capstone Project <a href="https://www.udacity.com/">Link</a>
