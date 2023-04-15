@@ -53,9 +53,9 @@ The dataset was retrived from Kaggle [<a href="https://www.kaggle.com/datasets/f
 3 algorithms were tested and evaluated and these are the results:
 | #Model    | #Coherence Score   |
 | :---: | :---: |
-| LDA   | 0.443   |
+| LDA   | 0.425   |
 | NMF   | 0.581   |
-| LSA   | 0.467   |
+| LSA   | 0.471   |
 
 The NMF algorithm achived the highest score and the model was fine-tuned based on topic numbers as shown in the above figure.
 <a id='7'></a>
