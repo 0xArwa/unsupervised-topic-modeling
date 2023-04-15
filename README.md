@@ -64,5 +64,6 @@ Check out the article that I have published on Meduim <a href="https://medium.co
 
 <a id='8'></a>
 ## Acknowledgements
+Data Source:
 - Medium. (2022). 190k+ Medium Articles [Data set]. Kaggle. <a href="https://www.kaggle.com/datasets/fabiochiusano/medium-articles?resource=download"> Link </a>
-- This project is part of Udacity Data Scientist Nanodegree Capstone Project <a href="https://www.udacity.com/">Link</a>
+
