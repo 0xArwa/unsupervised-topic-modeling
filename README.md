@@ -60,4 +60,4 @@ The dataset was retrived from Kaggle [<a href="https://www.kaggle.com/datasets/f
 The NMF algorithm achived the highest score and the model was fine-tuned based on topic numbers as shown in the above figure.
 <a id='7'></a>
 ## Blog post  📝
-Check out the article that I have published on Meduim HERE. 
+Check out the article that I have published on Meduim <a href="https://medium.com/@arwaomayrah/a-comparative-analysis-of-lda-nnmf-and-lsa-algorithms-for-topic-modeling-4b6d7ad28a8c">HERE</a>. 
